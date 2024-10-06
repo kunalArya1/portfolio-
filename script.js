@@ -7,7 +7,7 @@ tl.to(".part1",{
     scroller:"body",
     start:"top 0%",
     end:"bottom 0%",
-    markers: true,
+    // markers: true,
     pin: true
 }
 })
